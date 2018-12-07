@@ -4,7 +4,7 @@
 *   Description         :       Test class for BalCompCallOutManager                 *
 *************************************************************************************/
 @istest
-//private class BalCompCallOutManagerTest implements HttpCalloutMock {
+// This is GIT checking
 private class BalCompCallOutManagerTest {    
     
     @istest
